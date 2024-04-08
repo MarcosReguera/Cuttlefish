@@ -99,11 +99,6 @@ public class NVBoids : MonoBehaviour
         FlocksMove();
         BirdsMove();
 
-        if (Input.GetKeyUp(KeyCode.A))
-        {
-            StartCoroutine(Danger());
-        }
-
         //--------------
     }
 
