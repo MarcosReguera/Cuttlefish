@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AR_Scene.unity
     guid: 1c033303e7a3bd84dbd34291f27019ac
   - enabled: 0
     path: Assets/Scenes/AR_Anchoas.unity
     guid: 30c49cd056f90b641a945e1af1762bb7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/AR_Barco.unity
     guid: 498571974f3ac604bbf21c748dde5c68
   m_configObjects:
